@@ -1,7 +1,5 @@
 problem_generation/__pycache__/*
 
-*problem_generation/data/*
-
 node_selection/data/*
 
 node_selection/data_svm/*
