@@ -1,0 +1,30 @@
+problem_generation/__pycache__/*
+
+*problem_generation/data/*
+
+node_selection/data/*
+
+node_selection/data_svm/*
+
+stats/*
+
+*__pycache__*
+
+*.csv
+
+*.pkl
+
+scrips
+
+*.out
+
+*.txt
+
+*.xlsx
+
+# *.lp
+# *.sol
+# *.csv
+
+*.tar.xz
+*.tar.gz
