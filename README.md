@@ -1,3 +1,3 @@
-# Code for "LEARN TO SELECT NODE IN BRANCH AND BOUND WITH CAUSALITY MODELING"
+# Code for "Learning to Select Nodes in Branch-and-Bound via Tree-Aware Contrastive Learning"
 
 
